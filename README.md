@@ -1,6 +1,6 @@
 # MY-PYTHON-PROJECT
 
-This folder contains various Python projects covering different domains such as data analysis, automation, web development, machine learning, and more. Each project is designed to enhance my Python skills and solve real-world problems.
+This folder contains various Python projects covering different domains such as data analysis, machine learning, and more. Each project is designed to enhance my Python skills and solve real-world problems.
 
 Folder Structure:
 
